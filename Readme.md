@@ -5,7 +5,6 @@ Welcome to my Software Engineering & AI Engineering Knowledge Base.
 This repository contains my learning journey from Computer Fundamentals to AI Engineering.
 
 ---
-
 ## Roadmap
 
 - [ ] Computer Fundamentals
